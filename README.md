@@ -66,16 +66,6 @@ python calculadora_cli.py
   * `math`
   * `tkinter`
 
----
-
-## 📸 Preview
-
-<p align="center">
-  <img src="https://via.placeholder.com/800x400/0d1117/00ffcc?text=Calculadora+Python+GUI" width="80%">
-</p>
-
----
-
 ## 🧠 Tecnologias Utilizadas
 
 <p>
@@ -96,8 +86,3 @@ python calculadora_cli.py
 ## 📄 Licença
 
 Este projeto está sob a licença **MIT** — sinta-se livre para usar, modificar e compartilhar.
-
-
-<p align="center">
-  🚀 Projeto desenvolvido para aprendizado e prática em Python
-</p>
